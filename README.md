@@ -11,3 +11,4 @@ Dosyanın amacı:
 - Uygulama odak kontrolüyle ilgili VBA makro örnek kodları
 - Ekran zaman aşımı kilidini değiştirme hakları kısıtlı olan bir sistemi canlı tutmak
 (VBA kodu çalışırken bilgisayar uykuya veya kilit ekranına geçmez)
+
