@@ -7,7 +7,7 @@ Purpose of file:
 (computer does not go sleep or lock screen while VBA running)
 
 Dosyanın amacı:
--Tuş basımı gönderimine örnek VBA makro örnek kodları
--Uygulama odak kontrolüyle ilgili VBA makro örnek kodları
--Ekran zaman aşımı kilidini değiştirme hakları kısıtlı olan bir sistemi canlı tutmak
+- Tuş basımı gönderimine örnek VBA makro örnek kodları
+- Uygulama odak kontrolüyle ilgili VBA makro örnek kodları
+- Ekran zaman aşımı kilidini değiştirme hakları kısıtlı olan bir sistemi canlı tutmak
 (VBA kodu çalışırken bilgisayar uykuya veya kilit ekranına geçmez)
